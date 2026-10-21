@@ -1,0 +1,12 @@
+{
+  "address": "0xcc679b67ee1abc40c06cfe20ce4479effad9a407",
+  "chain": "Robinhood Chain (id 4663)",
+  "explorer": "https://robin.etherscan.io/address/0xcc679b67ee1abc40c06cfe20ce4479effad9a407",
+  "verified": false,
+  "label": "Crash betting game (unverified)",
+  "creator": "0x89cd80dc1dce754d4358bacb9740933447450b92",
+  "creation_tx": "https://robin.etherscan.io/tx/0xbf8789f5187d666d78a4b0d83135794ab3549bac2a7d13a2f2bf1db3c4755950",
+  "codehash": "0x65d381f544c64dec734be3ed029a5e6755cdced140ad810b3405bef6e6f93ca6",
+  "codesize_bytes": 21499,
+  "selector_count": 47
+}

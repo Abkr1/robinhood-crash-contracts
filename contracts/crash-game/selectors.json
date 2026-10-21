@@ -1,0 +1,144 @@
+{
+  "0x072ffb3a": [
+    "setKellyParams(uint256,uint256)"
+  ],
+  "0x0c657eb0": [
+    "bankroll()"
+  ],
+  "0x0f3ae951": [
+    "maxIndividualProfitBP()"
+  ],
+  "0x16c38b3c": [
+    "setPaused(bool)"
+  ],
+  "0x245a91a3": [
+    "canClaimRefund(uint256)"
+  ],
+  "0x272f911c": [
+    "lockSalt(uint256)"
+  ],
+  "0x288dee3b": [
+    "setMaxPlayers(uint256)",
+    "PRIVATE_ROUND_START_TIME()"
+  ],
+  "0x2e5b2168": [
+    "maxBet()"
+  ],
+  "0x33129ef6": [
+    "finalizeRound(uint256,bytes32,bytes32,(address,uint256)[])"
+  ],
+  "0x39dd3ece": [
+    "cancelRound(uint256,bytes32)"
+  ],
+  "0x4411b3eb": [
+    "MAX_PLAYERS()"
+  ],
+  "0x4b79704c": [
+    "emergencyForceCancel(uint256)"
+  ],
+  "0x4ed71302": [
+    "commitRound()"
+  ],
+  "0x4f451b0b": [
+    "setHouseEdgeDivisor(uint256)"
+  ],
+  "0x5776f2bd": [
+    "getKellyParams()"
+  ],
+  "0x5c975abb": [
+    "paused()"
+  ],
+  "0x646668b6": [
+    "getMaxBet()"
+  ],
+  "0x6e3fd647": [
+    "usesArbSys()"
+  ],
+  "0x71b21552": [
+    "MAX_BET_CAP()"
+  ],
+  "0x740ba91e": [
+    "MAX_AUTO_CASHOUT_BP()"
+  ],
+  "0x75a2b6ca": [
+    "ROUND_TIMEOUT()"
+  ],
+  "0x7687dd49": [
+    "setBetLimits(uint256,uint256)"
+  ],
+  "0x776e11dd": [
+    "getRoundPlayers(uint256)"
+  ],
+  "0x7d46abdc": [
+    "initializeChain(bytes32,bytes32)"
+  ],
+  "0x7f264076": [
+    "EMERGENCY_TIMEOUT()"
+  ],
+  "0x8c65c81f": [
+    "rounds(uint256)"
+  ],
+  "0x8f1327c0": [
+    "getRound(uint256)"
+  ],
+  "0x9619367d": [
+    "minBet()"
+  ],
+  "0x9cbe5efd": [
+    "currentRoundId()"
+  ],
+  "0xa240722d": [
+    "maxPlayersPerRound()"
+  ],
+  "0xa32bf597": [
+    "getCurrentRound()"
+  ],
+  "0xaa84756f": [
+    "MIN_CRASH_BP()"
+  ],
+  "0xb4ad06a1": [
+    "closeBetting(uint256)"
+  ],
+  "0xbc43cbaf": [
+    "accessController()"
+  ],
+  "0xc62416aa": [
+    "provablyFair()"
+  ],
+  "0xcd7636c4": [
+    "bettingDuration()"
+  ],
+  "0xe0950ddf": [
+    "getBet(uint256,address)"
+  ],
+  "0xe1f1c4a7": [
+    "BASIS_POINTS()"
+  ],
+  "0xe5c774de": [
+    "houseEdgeDivisor()"
+  ],
+  "0xe5ef4631": [
+    "claimRefundAfterTimeout(uint256)"
+  ],
+  "0xe71c9697": [
+    "placeBet(uint256,uint256,uint256)"
+  ],
+  "0xe934777b": [
+    "maxCollectiveProfitBP()"
+  ],
+  "0xed2c8795": [
+    "cleanupStalledRoundBatch(uint256,uint256,bytes32)"
+  ],
+  "0xf644b3bb": [
+    "bets(uint256,address)"
+  ],
+  "0xfb0b4e16": [
+    "verifyRound(uint256)"
+  ],
+  "0xfd16a2e7": [
+    "setBettingDuration(uint256)"
+  ],
+  "0xfd713280": [
+    "gameChainEnd()"
+  ]
+}

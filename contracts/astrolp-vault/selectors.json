@@ -1,0 +1,174 @@
+{
+  "0x01e1d114": [
+    "totalAssets()"
+  ],
+  "0x06fdde03": [
+    "name()"
+  ],
+  "0x0784f212": [
+    "getLpInfo(address)"
+  ],
+  "0x07a2d13a": [
+    "convertToAssets(uint256)"
+  ],
+  "0x095ea7b3": [
+    "approve(address,uint256)"
+  ],
+  "0x16c38b3c": [
+    "setPaused(bool)"
+  ],
+  "0x18160ddd": [
+    "totalSupply()"
+  ],
+  "0x1e5eb1d0": [
+    "feeConfig()"
+  ],
+  "0x1e8410da": [
+    "highWaterMark()"
+  ],
+  "0x23b872dd": [
+    "transferFrom(address,address,uint256)"
+  ],
+  "0x313ce567": [
+    "decimals()"
+  ],
+  "0x38d52e0f": [
+    "asset()"
+  ],
+  "0x3a1611b3": [
+    "MAX_OPERATOR_FEE()"
+  ],
+  "0x3b17eadc": [
+    "withdrawAllBalance()"
+  ],
+  "0x402d267d": [
+    "maxDeposit(address)"
+  ],
+  "0x4cdad506": [
+    "previewRedeem(uint256)"
+  ],
+  "0x534c6bcb": [
+    "setFees(uint16,uint16,uint16)"
+  ],
+  "0x570ca735": [
+    "operator()"
+  ],
+  "0x5b1dac60": [
+    "getSharePrice()"
+  ],
+  "0x615043f8": [
+    "releaseRoundExposure()"
+  ],
+  "0x6b863fbd": [
+    "getAvailableBankroll()"
+  ],
+  "0x6e553f65": [
+    "deposit(uint256,address)"
+  ],
+  "0x70a08231": [
+    "balanceOf(address)"
+  ],
+  "0x715018a6": [
+    "renounceOwnership()"
+  ],
+  "0x79ba5097": [
+    "acceptOwnership()"
+  ],
+  "0x7b38314c": [
+    "playerBalances(address)"
+  ],
+  "0x7d6bf618": [
+    "totalPlayerBalances()"
+  ],
+  "0x7f406da5": [
+    "creditUsersAndSettle(address[],uint256[],uint256,uint256)"
+  ],
+  "0x84dc1437": [
+    "depositBetFrom(address,uint256)"
+  ],
+  "0x8da5cb5b": [
+    "owner()"
+  ],
+  "0x8ed83271": [
+    "maxDepositAmount()"
+  ],
+  "0x94bf804d": [
+    "mint(uint256,address)"
+  ],
+  "0x95d89b41": [
+    "symbol()"
+  ],
+  "0x9ce1024b": [
+    "lastDepositBlock(address)"
+  ],
+  "0xa59aa5a6": [
+    "getVaultStats()"
+  ],
+  "0xa9059cbb": [
+    "transfer(address,uint256)"
+  ],
+  "0xaaf5eb68": [
+    "PRECISION()"
+  ],
+  "0xb245b464": [
+    "emergencyRecoverERC20(address,uint256,address)"
+  ],
+  "0xb3ab15fb": [
+    "setOperator(address)"
+  ],
+  "0xb3d7f6b9": [
+    "previewMint(uint256)"
+  ],
+  "0xb460af94": [
+    "withdraw(uint256,address,address)"
+  ],
+  "0xba087652": [
+    "redeem(uint256,address,address)"
+  ],
+  "0xc90256a1": [
+    "fundsInPlay()"
+  ],
+  "0xc92c9bdb": [
+    "reservedExposure()"
+  ],
+  "0xce96cb77": [
+    "maxWithdraw(address)"
+  ],
+  "0xd00408ce": [
+    "reserveRoundExposure(uint256)"
+  ],
+  "0xd1806bc2": [
+    "MAX_DILUTION_FEE()"
+  ],
+  "0xd905777e": [
+    "maxRedeem(address)"
+  ],
+  "0xda76d5cd": [
+    "withdrawBalance(uint256)"
+  ],
+  "0xdd62ed3e": [
+    "allowance(address,address)"
+  ],
+  "0xe1f1c4a7": [
+    "BASIS_POINTS()"
+  ],
+  "0xe2734c93": [
+    "getPlayerBalance(address)"
+  ],
+  "0xe30c3978": [
+    "pendingOwner()"
+  ],
+  "0xeb6ed330": [
+    "MAX_WITHDRAWAL_FEE()"
+  ],
+  "0xef8b30f7": [
+    "previewDeposit(uint256)"
+  ],
+  "0xf2436307": [
+    "getTotalBankroll()"
+  ],
+  "0xf2fde38b": [
+    "transferOwnership(address)",
+    "_SIMONdotBLACK_(int8[],uint256,address,bytes8,int96)"
+  ]
+}

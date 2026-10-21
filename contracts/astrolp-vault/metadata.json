@@ -1,0 +1,12 @@
+{
+  "address": "0x58d2f2d46af20c357885d540a9c02fdd791ee1cf",
+  "chain": "Robinhood Chain (id 4663)",
+  "explorer": "https://robin.etherscan.io/address/0x58d2f2d46af20c357885d540a9c02fdd791ee1cf",
+  "verified": false,
+  "label": "ASTROLP ERC4626-style vault (unverified)",
+  "creator": "0x89cd80dc1dce754d4358bacb9740933447450b92",
+  "creation_tx": "https://robin.etherscan.io/tx/0x65b8206f7ed3b081e0631f1d0c824bdf449e01c9bc0244100dd56252bb9b4238",
+  "codehash": "0x62b19ef5f5fdeafc5a1704e24e13d72d791882bedea2d8f7f1d2d3e1087e9369",
+  "codesize_bytes": 15780,
+  "selector_count": 57
+}
